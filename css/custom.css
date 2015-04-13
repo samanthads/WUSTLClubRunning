@@ -1,0 +1,14 @@
+.jumbotron{
+	background-image: url("https://placehold.it/1000x400");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: white;
+}
+
+.modal{
+	color: black;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
