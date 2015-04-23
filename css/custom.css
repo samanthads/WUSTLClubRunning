@@ -7,7 +7,7 @@
 }
 
 @media only screen and (max-width : 480px) {
-	.jumbotron{
+	.home{
 		padding-top: 2%;
 		padding-bottom: 5%;
 		background-image: url("../fun5.jpg");
