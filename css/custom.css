@@ -1,5 +1,5 @@
 .jumbotron{
-	background-image: url("https://placehold.it/1000x600&text=team+picture");
+	background-image: url("../fun4.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	color: white;
@@ -17,3 +17,18 @@
 .img-responsive {
     margin: 0 auto;
 }
+
+h4{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+h3{
+	margin-top: 0;
+}
+
+.backing{
+	text-shadow: 2px 2px 8px black;
+	text-shadow: 3px 3px 8px black;
+}
+
