@@ -12,6 +12,12 @@
 	}
 }
 
+@media only screen and (min-width : 1200px) {
+	.backing{
+		padding: 5%;
+	}
+}
+
 .modal{
 	color: black;
 }
