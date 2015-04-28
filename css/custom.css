@@ -8,6 +8,13 @@ body{
 	background-size: 100% 100%;
 	color: white;
 	padding: 10%;
+	border: 2px solid;
+	border-color: #E62B2B;
+}
+
+.pic{
+	border: 2px solid;
+	border-color: #E62B2B;
 }
 
 @media only screen and (max-width : 480px) {
@@ -141,7 +148,7 @@ a:hover, a:focus{
 
 .navbar-default {
   background-color: #006600;
-  border-color: #19ac19;
+  border-color: #E62B2B;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -167,7 +174,7 @@ a:hover, a:focus{
   background-color: #19ac19;
 }
 .navbar-default .navbar-toggle {
-  border-color: #19ac19;
+  border-color: #E62B2B;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
   background-color: #19ac19;
@@ -177,7 +184,7 @@ a:hover, a:focus{
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #ffffff;
+  border-color: #E62B2B;
 }
 .navbar-default .navbar-link {
   color: #ffffff;
